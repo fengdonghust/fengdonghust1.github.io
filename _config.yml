@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shenao Wang"
-description              : "Ph.D. Student @ Huazhong Univerisity of Science and Technology"
-repository               : "shenaow.github.io"
+title                    : "Feng Dong"
+description              : "Associate Professor @ Huazhong Univerisity of Science and Technology"
+repository               : "fengdonghust.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shenao Wang"
-  avatar           : "images/chinasoft24.jpg"
-  bio              : "What's Past Is Prologue ✨"
+  name             : "Feng Dong"
+  avatar           : "images/inchnew.jpg"
+  bio              : "✨"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9uC3jPkAAAAJ"
-  email            : "shenaowang@hust.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=1Unagw0AAAAJ"
+  email            : "dongfeng@hust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ShenaoW"
+  github           : "fengdonghust"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
-  dblp             : "https://dblp.uni-trier.de/pid/360/7470.html"
-  orcid            : "https://orcid.org/0000-0003-3818-3343"
+  dblp             : "https://dblp.org/pid/62/2555-8.html"
+  orcid            : "https://orcid.org/0000-0001-7091-2169"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
