@@ -82,44 +82,32 @@ I am actively looking for self-motivated Ph.D. and Master’s students to join m
 
 # 🏆 Honors & Awards
 
-- 2024 - Third Prize, Prototype Competition in ChinaSoft'24 [[Reference]](http://ShenaoW.github.io/files/chinasoft24.pdf)
-- 2023 - Bronze Award, National Innovation Competition [[Reference]](http://ShenaoW.github.io/files/hulianwang+.pdf)
-- 2023 - Third Prize, Prototype Competition in ChinaSoft'23 [[Reference]](http://ShenaoW.github.io/files/chinasoft.pdf)
-- 2022 - First Prize, National Digital Forensics Competition ([19/764](https://www.meiyacup.cn/Ne_d_gci_16_id_62.html)) [[Reference]](http://ShenaoW.github.io/files/meiyacup.pdf)
-- 2022 - First Prize & Most Valuable Award, National College Student Information Security Contest ([2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)) [[Reference]](http://ShenaoW.github.io/files/ciscn.pdf)
-- 2022 - Meritorious Winner, MCM/ICM (Problem A) [[Reference]](http://ShenaoW.github.io/files/icm.pdf)
-- 2021 - First Prize, National Cryptographic Competition (16/121) [[Reference]](http://ShenaoW.github.io/files/crypto.pdf)
-- 2021 - First Prize, CUMCM in Shannxi Province [[Reference]](http://ShenaoW.github.io/files/cumcm.pdf)
-
-## <span style="color:grey">Honors</span>
-
-- 2025 - National Scholarship, Ministry of Education of P.R. China
-- 2025 - SIGSOFT CAPS AWARD FSE/ISSTA 2025
-- 2024 - National Scholarship, Ministry of Education of P.R. China [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
-- 2024 - Merit Student, Huazhong University of Science and Technology [[Reference]](http://ShenaoW.github.io/files/merit.pdf)
-- 2023 - Outstanding Graduate of Shaanxi Province [[Reference]](http://www.sxjybk.com/2023/0705/66484.html)
-- 2023 - Outstanding Bachelor Thesis, Xidian University [[Reference]](http://ShenaoW.github.io/files/thesis.pdf)
-- 2022 - President Scholarship, Xidian University ([5 undergraduates among 5300+](https://news.xidian.edu.cn/info/2106/223413.htm)) [[Reference]](http://ShenaoW.github.io/files/president_scholarship.pdf)
-- 2022 - National Scholarship, Ministry of Education of P.R. China (Top 1%) [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
-- 2022 - Xiaomi Special Scholarship (5 undergraduates among 5300+)
-- 2021 - Excellent Student Cadre, Xidian University
-- 2021 - National Encouragement Scholarship, Ministry of Education of P.R. China
-- 2020 - Pacemaker to Merit Student, Xidian University
-- 2020 - Special Scholarship, Xidian University (Top 1%)
+- 2025 -**National First-Class Undergraduate Course**, Comprehensive Practice in Cyberspace Security, Ministry of Education of China.
+- 2025 -**National Outstanding Advisor Award** , The 4th China Post-graduate Network Security Innovation Competition, Ministry of Education of China.
+- 2025 -**National First Prize**, The 4th China Post-graduate Network Security Innovation Competition, Ministry of Education of China.
+- 2025 -**National Third Prize**, The 4th China Post-graduate Network Security Innovation Competition, Ministry of Education of China.
+- 2024 -**OpenHarmony Pioneer Project Award**, OpenHarmony Technical Steering Committee (Only 5 projects nationwide).
+- 2024 -**National Outstanding Advisor Award**, The 3rd China Post-graduate Network Security Innovation Competition, Ministry of Education of China.
+- 2024 -**National First Prize**, The 3rd China Post-graduate Network Security Innovation Competition, Ministry of Education of China.
+- 2024 -**National Third Prize**, The 3rd China Post-graduate Network Security Innovation Competition, Ministry of Education of China.
+- 2024 -**National Third Prize**, The 1st China Post-graduate Operating System Open Source Innovation Competition, Ministry of Education of China.
+- 2024 -**National Second Prize (Ranked 2nd Nationwide)**, OpenHarmony Competition Training Camp - Technical Challenge Track, OpenHarmony Technical Steering Committee.
+- 2021 -**Annual Innovation First Prize**, Sangfor Technologies Inc. (Ranked 2/9500, highest corporate honor).
+- 2020 -**Annual Distinguished Employee**, Sangfor Technologies Inc. (Top 3% of 9500 employees).
+- 2019 -**Annual Outstanding Employee**, Sangfor Technologies Inc. (Top 10% of 7000 employees).
 
 # 🌟 Grants
 
-- **Detection of Supply Chain Poisoning**
-  <br>_Cybersecurity College Student Innovation Funding Program_
-  <br>_Funded by CSAC and DiDi_, 2025.8-until now
+I serve as the **Principal Investigator (PI)** for the following selected research projects:
 
-- **Multilingual Program Analysis**
-  <br>_Cybersecurity College Student Innovation Funding Program_
-  <br>_Funded by CSAC and AntGroup_, 2024.7-2025.4
+## National & Government Grants
+- **National Natural Science Foundation of China (NSFC)**, "Research on Large-scale Endpoint APT Attack Detection Based on Distributed Profiling", Grant No. 62302181, 2024.01 – 2026.12. (Principal Investigator)
+- **Hubei Provincial Key Research and Development Program**, "Research on Intelligent Detection of Highly Concealed Cyber Threats Based on Knowledge Graphs", Grant No. 2023BAB079, 2023.04 – 2025.12. (Principal Investigator)
+- **National Key Laboratory of Data Space Technology and Systems**, "Research on the Security Architecture of Data-Network", Grant No. QZQC2024006, 2024.06 – 2025.06. (Principal Investigator)
 
-- **Permission Abuse Detection in Android/iOS Apps**
-  <br>_Cybersecurity College Student Innovation Funding Program_ ([Excellent Project [6/240]](https://www.cybersac.cn/detail/1702256698066042881))
-  <br>_Funded by CSAC and NIO_, 2022.7-2023.11
+## Industrial & Collaborative Grants
+* **CCF-Tencent Rhino-Bird Young Faculty Open Research Fund**, "Research on Threat Hunting Techniques Based on Provenance Graph Analysis", Grant No. CCF-Tencent RAGR20250126, 2025.10 – 2026.09. (Principal Investigator, **Acceptance Rate: 9.5%, 37/390**)
+* **CCF-NSFOCUS Kunpeng Research Fund**, "Research on Autonomous Event Investigation Techniques Based on Intelligent Agents", Grant No. CCF-NSFOCUS 2025010, 2025.12 – 2026.12. (Principal Investigator, **Acceptance Rate: 17.5%, 14/80**)
 
 # 📚 Teaching
 
