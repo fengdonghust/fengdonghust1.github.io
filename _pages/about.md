@@ -26,20 +26,6 @@ I am actively looking for self-motivated Ph.D. and Master’s students to join m
 
 ***(\* Equal Contribution, <sup>#</sup> Corresponding Author)***
 
-## <span style="color:grey">2026</span> 
-
-- Xinyi Hou, Jiahao Han, **Yanjie Zhao**, Shenao Wang, and Haoyu Wang. "Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils." *SIGMETRICS 2026*. [[Paper]()]
-
-- Hongzhou Rao, Zikan Dong, **Yanjie Zhao<sup>#</sup>**, Haodong Li, and Haoyu Wang. "Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis." *ICSE 2026, Industry Challenge Track*. [[Paper]()]
-
-- Haonan Chen, Mingyi Zhou, **Yanjie Zhao**, and Li Li. "HapFlow: The Taint Analysis Framework for OpenHarmony Apps." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
-
-- Shenao Wang\*, Zhao Liu\*, **Yanjie Zhao**, Quanchen Zou, and Haoyu Wang. "VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems." *ICSE 2026*. [[Paper]()]
-
-- Junjie He\*, Shenao Wang\*, **Yanjie Zhao**, Xinyi Hou, Zhao Liu, Quanchen Zou, and Haoyu Wang. "TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications."  *ICSE 2026*. [[Paper]()]
-
-- Zhihao Lin\*, Wei Ma\*, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Yang Liu, Jun Wang, and Li Li. "MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses." *ICSE 2026*. [[Paper]()]
-
 ## <span style="color:grey">2025</span>
 
 - Yunpeng Tian\*, **Feng Dong**\*, Junhai Wang, Mu Zhang, Zhiniang Peng, Zesen Ye, Xiapu Luo, Haoyu Wang. "Error Messages to Fuzzing: Detecting XPS Parsing Vulnerabilities in Windows Printing Components." *Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (**CCS '25 CCF-A**)*.
@@ -62,7 +48,7 @@ I am actively looking for self-motivated Ph.D. and Master’s students to join m
 
 - Jingjing Wang, Liu Wang, **Feng Dong**#, Haoyu Wang#. "Re-measuring the Label Dynamics of Online Anti-Malware Engines from Millions of Samples." *Proceedings of the 2023 ACM on Internet Measurement Conference (**IMC '23 CCF-B**)*.
 
-## <span style="color:grey">Before 2021</span>
+## <span style="color:grey">Before 2023</span>
 
 - Tianming Liu, Haoyu Wang, Li Li, Xiapu Luo, **Feng Dong**, Yao Guo, Liu Wang, Tegawendé F. Bissyandé, Jacques Klein. "MadDroid: Characterizing and Detecting Devious Ad Contents for Android Apps." *Proceedings of The Web Conference 2020 (**WWW '20 CCF-A**)*.
 
@@ -84,13 +70,13 @@ I am actively looking for self-motivated Ph.D. and Master’s students to join m
 
 ## <span style="color:grey">Professional Society Membership</span>
 
-- 2026: PAM
-- 2025: CCS, AsiaCCS
-- 2024: CCS, FSE, ISSTA, WWW, IMC, Internetware, MSR, EASE, MobileSoft, SaTS, MobiLLM, LCTES
+- **Executive Committee Member**, Technical Committee on System Software, China Computer Federation (CCF)
+- **Executive Committee Member**, Technical Committee on Network and System Security, China Computer Federation (CCF)
+- **Corresponding Committee Member**, Technical Committee on Software Engineering, China Computer Federation (CCF)
 
-## <span style="color:grey">Publicity & Web Chair</span>
+## <span style="color:grey">Academic Appointments & Expertise</span>
 
-- LLMSC Workshop @ISSTA 2025
+- **Expert Panelist**, National Graduate Education Evaluation and Monitoring Expert Database, Ministry of Education of China
 
 <span class='anchor' id='honors'></span>
 
@@ -137,7 +123,18 @@ I am actively looking for self-motivated Ph.D. and Master’s students to join m
 
 # 📚 Teaching
 
-- Fall 2025 - Computer Network Security
+I am deeply committed to undergraduate education, consistently delivering core professional courses for students majoring in Cyberspace Security and Computer Science. My annual teaching load includes the following core curriculum:
+
+- **Computer Network Security**   
+  *Main Instructor, Annual Undergraduate Core Course*
+- **Computer Network Security Experiment**   
+  *Hands-on laboratory sessions focusing on real-world security scenarios.*
+- **Assembly Language Programming**   
+  *Main Instructor, Fundamental Core Course for Computer Systems.*
+- **Assembly Language Programming Experiment**   
+  *Focusing on low-level system optimization and architectural understanding.*
+- **Comprehensive Practice in Cyberspace Security (III)**   
+  *Capstone practical course integrating advanced offensive and defensive techniques.*
 
 <!-- <div align=center><img src="http://fengdonghust.github.io/images/nio.jpg" alt="Funding-NIO-Excellent-Project" width = "80%" height = "80%" /></div> -->
 
