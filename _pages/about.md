@@ -65,6 +65,7 @@ I am actively looking for self-motivated Ph.D. and Master’s students to join m
 
 - IEEE Transactions on Information Forensics and Security (TIFS)
 - Journal of Software
+- IEEE Transactions on Network and Service Management
 - IEEE Open Journal of the Computer Society
 
 ## <span style="color:grey">Professional Society Membership</span>
